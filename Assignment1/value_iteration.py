@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+# this is the value iteration solution for a grid robot problem
 # initialize the state and actions
 
 
